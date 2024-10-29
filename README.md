@@ -1,6 +1,6 @@
 # Big_O_Notation
 
-This repository provides an in-depth exploration of Big O notation, helping users understand and visualize algorithm efficiency. Big O notation is essential in computer science as it describes the performance of an algorithm as the input size increases. With this guide, you’ll learn the fundamentals and see examples that illustrate common time complexities.
+This repository, created by **Nader Mohamed**, provides an in-depth exploration of Big O notation, helping users understand and visualize algorithm efficiency. Big O notation is essential in computer science as it describes the performance of an algorithm as the input size increases. With this guide, you’ll learn the fundamentals and see examples that illustrate common time complexities.
 
 ## 📘 Overview
 Big O notation allows us to:
@@ -37,12 +37,4 @@ Big O notation is a critical skill for developing efficient algorithms. Understa
 - "Grokking Algorithms"
 - OpenAI ChatGPT
 
-## 🔗 Getting Started
-Clone this repository to explore the Big O notation in detail:
-
-```bash
-git clone <repository-url>
-cd Big-O-Notation
-```
-
-Happy coding and optimizing! 🚀
+Happy coding and optimizing! 🚀  
